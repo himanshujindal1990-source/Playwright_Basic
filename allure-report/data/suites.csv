@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8310","Validate login for valid","chromium","2026-07-21","passed","2026-07-21","","parameter3-json.spec.ts","",""
+"","12975","Validate login for invalid","chromium","2026-07-21","passed","2026-07-21","","parameter3-json.spec.ts","",""
